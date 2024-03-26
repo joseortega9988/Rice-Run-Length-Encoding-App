@@ -31,6 +31,7 @@ The `k` parameter is pivotal in determining the efficiency of encoding, affectin
 Exploring the combination of Rice coding with Run-Length Encoding (RLE) to enhance compression efficiency, especially for datasets characterized by extended sequences of zeros and ones. Segmenting data files and tailoring `k` values to specific segments could further optimize compression.
 
 <img width="338" alt="Screenshot 2024-03-26 141643" src="https://github.com/joseortega9988/Rice-Run-Length-Encoding-App/assets/77720475/ed25551b-99dd-47e8-9c27-20492c84f3ec">
+
 ## Conclusion
 
 RiceRLE Codex offers a sophisticated solution for data compression, providing tools for effective encoding and decoding with potential for further optimization through combined encoding strategies and parameter adjustments.
